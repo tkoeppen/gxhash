@@ -37,7 +37,7 @@ twox-hash = "1.6.3"
 highway = "1.1.0"
 seahash = "4.1.0"
 metrohash = "1.0.6"
-fnv = "1.0.3"
+fnv = "1.0.7"
 
 [dev-dependencies.plotters]
 version = "0.3.5"
